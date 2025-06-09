@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm GAURAV</h1>
 <h3 align="center">A passionate DevOps Practitioner from India</h3>
-<<<<<<< HEAD
-=======
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav3972&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav3972" /> </p>
->>>>>>> a7789f6 (add)
 
-## 🧠 Skills and Tools
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav3972&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav3972" /> </p>
+
+
+
+
 | Domain                       | Skills/Tools                                   | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ---------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-<<<<<<< HEAD
-| **☁️ Cloud**                    | AWS                                            | - [Securing vpc](https://github.com/gaurav3972/secure-vpc.git)<br>- [Route-53-Web-Hosting-Architecture](https://github.com/gaurav3972/Route-53-Web-Hosting-Architecture.git)<br>- [VPC3TierJava](https://github.com/gaurav3972/VPC3TierJava.git)                                           |
-=======
-| **☁️ Cloud**                    | AWS                                            | - [Securing vpc](https://github.com/gaurav3972/secure-vpc.git)<br>- [Route-53-Web-Hosting-Architecture](https://github.com/gaurav3972/Route-53-Web-Hosting-Architecture.git)<br>- [VPC3TierJava](https://github.com/gaurav3972/VPC3TierJava.git) <br>-[Scalable Web Application Architecture on AWS](https://github.com/gaurav3972/AutoScale-Load-Balancer-with-Route-53-Project)                                          |
->>>>>>> a7789f6 (add)
-| **📦 Infrastructure as Code**   | Terraform                                      | - [3-Tier-Cloud-Deployment-via-Terraform-Modules](https://github.com/gaurav3972/3-Tier-Cloud-Deployment-via-Terraform-Modules-1.git)
-
-
+| **☁️ Cloud**                    | AWS                                            |- [Securing vpc](https://github.com/gaurav3972/secure-vpc.git)<br>- [Route-53-Web-Hosting-Architecture](https://github.com/gaurav3972/Route-53-Web-Hosting-Architecture.git)<br>- [VPC3TierJava](https://github.com/gaurav3972/VPC3TierJava.git)<br>- [Scalable Web Application Architecture on AWS](https://github.com/gaurav3972/AutoScale-Load-Balancer-with-Route-53-Project)                                                                                                             |
+| **📦 Infrastructure as Code**   | Terraform                                      | - [3-Tier-Cloud-Deployment-via-Terraform-Modules](https://github.com/gaurav3972/3-Tier-Cloud-Deployment-via-Terraform-Modules-1.git)                                                                                                                                                                                                                   |
+|                              |
 
 
 
