@@ -9,12 +9,8 @@
 | Domain                       | Skills/Tools                                   | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ---------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **☁️ Cloud**                    | AWS                                            |- [Securing vpc](https://github.com/gaurav3972/secure-vpc.git)<br>- [Route-53-Web-Hosting-Architecture](https://github.com/gaurav3972/Route-53-Web-Hosting-Architecture.git)<br>- [VPC3TierJava](https://github.com/gaurav3972/VPC3TierJava.git)<br>- [Scalable Web Application Architecture on AWS](https://github.com/gaurav3972/AutoScale-Load-Balancer-with-Route-53-Project)                                                                                                             |
-| **📦 Infrastructure as Code**   | Terraform                                      | - [3-Tier-Cloud-Deployment-via-Terraform-Modules](https://github.com/gaurav3972/3-Tier-Cloud-Deployment-via-Terraform-Modules-1.git)                                                                                                                                                                                                                   |
-|                              |
-
-
-
-
+| **📦 Infrastructure as Code**   | Terraform                                      | - [3-Tier-Cloud-Deployment-via-Terraform-Modules](https://github.com/gaurav3972/3-Tier-Cloud-Deployment-via-Terraform-Modules-1.git)                                                                                                                                                                                                                  |
+|**✅ Serverless Compute**                             |Serverless                  |-[AWS-Lambda-Volume-Backup-Automation-Project](https://github.com/gaurav3972/AWS-Lambda-Volume-Backup-Automation-Project)
 
 
 ## 🛠️ Languages and Tools
@@ -49,4 +45,3 @@
 ### 🔗 GitHub Profile
 
 📌 [github.com/gaurav3972](https://github.com/gaurav3972)
-
