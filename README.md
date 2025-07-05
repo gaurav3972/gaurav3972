@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm GAURAV</h1>
+<h1 align="center">🔥GAURAV3972🔥</h1>
 <h3 align="center">A passionate DevOps Practitioner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav3972&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav3972" /> </p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srushti+Deshmukh!;+A+DevOps+Engineer+from+India!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav+Patil!;+A+DevOps+Engineer+from+India!" />
 
 
 
