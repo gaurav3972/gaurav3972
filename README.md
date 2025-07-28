@@ -15,7 +15,8 @@
 | **🐳 Docker**   |Platform-as-a-Service (PaaS) service                                     | - [Dockerized Node.js App on AWS EC2 (Ubuntu)](https://github.com/gaurav3972/dockerized-nodejs-on-ec2)
 | **🔁CI-CD-PIPELINE**   |Platform-as-a-Service (PaaS) service                                     | - [Java Maven CI/CD Project with Jenkins](https://github.com/gaurav3972/Java-Maven-CI-CD-Project-with-Jenkins)
 **🔹 Kubernetes-based Microservices (PaaS)** | Platform-as-a-Service                                       | - [Kubernetes-Driven-Microservices-Platform-for-Scalable-High-Availability-Cloud-Applications](https://github.com/gaurav3972/Kubernetes-Driven-Microservices-Platform-for-Scalable-High-Availability-Cloud-Applications)                              |
-                                                                        
+**⚙️ Infrastructure as Code (IaC) + Monitoring** | Provisioned Kubernetes Cluster using Terraform with Prometheus + Grafana on AWS EC2                                        | - [Kubernetes-Cluster-with-Prometheus-Grafana-on-EC2-Using-Terraform](https://github.com/gaurav3972/Kubernetes-Cluster-with-Prometheus-Grafana-on-EC2-Using-Terraform)                              |          
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
