@@ -16,7 +16,7 @@
 | **🔁CI-CD-PIPELINE**   |Platform-as-a-Service (PaaS) service                                     | - [Java Maven CI/CD Project with Jenkins](https://github.com/gaurav3972/Java-Maven-CI-CD-Project-with-Jenkins)
 **🔹 Kubernetes-based Microservices (PaaS)** | Platform-as-a-Service                                       | - [Kubernetes-Driven-Microservices-Platform-for-Scalable-High-Availability-Cloud-Applications](https://github.com/gaurav3972/Kubernetes-Driven-Microservices-Platform-for-Scalable-High-Availability-Cloud-Applications)                              |
 **⚙️ Infrastructure as Code (IaC) + Monitoring** | Provisioned Kubernetes Cluster using Terraform with Prometheus + Grafana on AWS EC2                                        | - [Kubernetes-Cluster-with-Prometheus-Grafana-on-EC2-Using-Terraform](https://github.com/gaurav3972/Kubernetes-Cluster-with-Prometheus-Grafana-on-EC2-Using-Terraform)<br>-[Cloud-Native-Monitoring-on-AWS-EKS-with-Prometheus-Grafana-and-Python](https://github.com/gaurav3972/Cloud-Native-Monitoring-on-AWS-EKS-with-Prometheus-Grafana-and-Python)                              |          
-
+**☁️ AWS** | Cloud-native automation for high availability                                       | - [Secure-Backup-Automation-for-EC2-and-RDS](https://github.com/gaurav3972/Secure-Backup-Automation-for-EC2-and-RDS)                              |
 ## 🛠️ Languages and Tools
 
 <p align="left">
